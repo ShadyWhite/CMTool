@@ -409,7 +409,7 @@
     <value>裁衣匠</value>
   </data>
   <data name="NoneOffHand" xml:space="preserve">
-    <value>非临时美学</value>
+    <value>无副手</value>
   </data>
   <data name="Equipment" xml:space="preserve">
     <value>装备</value>
